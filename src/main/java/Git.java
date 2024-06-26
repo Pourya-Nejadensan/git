@@ -3,5 +3,6 @@ public class Git {
         System.out.println("Git");
         System.out.println("Version Konrolle");
         System.out.println("Java");
+        System.out.println("intelliJ");
     }
 }
