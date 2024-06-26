@@ -6,5 +6,6 @@ public class Git {
         System.out.println("intelliJ");
 
         System.out.println("Eva wrote this");
+        System.out.println("Rinae's change");
     }
 }
